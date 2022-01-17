@@ -1,0 +1,10 @@
+#Ignore large files
+data/
+figures/
+ray_temp/
+*.html
+
+.ipynb_checkpoints/
+*.log
+ghcnd/
+login.txt
